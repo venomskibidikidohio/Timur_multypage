@@ -1,0 +1,122 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(103, 202, 255);
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color:rgb(255, 255, 255);
+}
+
+.button {
+    
+}
+
+nav {
+    background-color:rgb(24, 226, 244);
+    font-size:20px;
+    padding:10px;
+    margin:15px;
+    text-align:center;
+    border:3px solid rgb(69, 66, 237);
+    border-radius:20px;
+    display:flex;
+    }
+
+.nav-link {
+    text-decoration: none;
+    padding:1px;
+    margin:15px;
+    background-color:rgb(197, 97, 214);
+    color:rgb(255, 255, 255);
+    border:3px solid rgb(0, 0, 0);
+    border-radius:20px;
+    display:flex;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   background-color:rgb(0, 63, 163);
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+main {
+    background-color:rgb(5, 118, 216);
+}
+
+main img {
+    border:5px solid rgb(249, 249, 249);
+    border-radius:25px;
+}
+
+main h1 {
+    font-size:50px;
+    color:rgb(255, 90, 225);
+    text-align:center;
+}
+
+.reaf {
+    color:rgb(255, 132, 32);
+    text-align:right;
+    font-size:27px;
+}
+
+.kanion {
+    color:rgb(192, 192, 192);
+    text-align:right;
+    font-size:27px;
+}
+
+.jungley {
+    color:rgb(141, 245, 99);
+    text-align:right;
+    font-size:27px;
+}
+
+.ruin {
+    color:rgb(49, 255, 190);
+    text-align:right;
+    font-size:27px;
+}
+
+.desert {
+    color:rgb(226, 220, 49);
+    text-align:right;
+    font-size:27px;
+}
+
+.other {
+    color:rgb(255, 255, 255);
+    text-align:right;
+    font-size:27px;
+}
+
+.test {
+    display:flex;
+}
